@@ -4,12 +4,12 @@ homepage: https://foreverday.one
 repository: https://github.com/4ed1/dart_mixpanel
 issue_tracker: https://github.com/4ed1/dart_mixpanel/issues
 
-version: 0.0.4
+version: 0.0.5
 
 dependencies:
     flutter:
         sdk: flutter
-    uuid: ^2.0.2
+    uuid: ^3.0.2
     shared_preferences: ^2.0.5
     package_info: '>=0.4.0 <2.0.0'
     device_info: ^0.4.0
